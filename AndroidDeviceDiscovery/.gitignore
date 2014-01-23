@@ -1,0 +1,17 @@
+# Compiled Java Classes
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+bin/*
+doc/*
+.classpath
+.project
+assets/*
+gen/*
+libs/*
+
+~                    

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!--  TelephonyManager.phone types -->
+     <string-array name="telephony_phone_type">
+         <item>No radio detected</item>
+         <item>GSM</item>
+         <item>CDMA</item>
+         <item>UMTS</item>
+     </string-array>
+</resources>
